@@ -1,4 +1,4 @@
-# A Dual-Domain Corpus for Adversarial RAG Evaluation
+# RAG FABRIC: Fictional & Actual Benchmark for Robust Inference & Context
 
 ![Status](https://img.shields.io/badge/status-Work_In_Progress-orange)
 ![Dataset Version](https://img.shields.io/badge/version-0.1.0-blue)
